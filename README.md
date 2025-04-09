@@ -1,5 +1,5 @@
-TraderConnect – Frontend in Progress
-TraderConnect is a modern, responsive web application designed to connect and empower traders. Inspired by platforms like Zerodha, this project focuses on building a sleek, user-friendly interface that caters to both beginner and pro traders.
+Connecting-Traders – Frontend in Progress
+TraderConnect/ connecting Traders is a modern, responsive web application designed to connect and empower traders. Inspired by platforms like Zerodha, this project focuses on building a sleek, user-friendly interface that caters to both beginner and pro traders.
 
 This repo currently includes only the frontend, built with React, and is the first phase of a full-stack application using the MERN stack.
 
