@@ -1,6 +1,6 @@
 import React from "react";
 
-function AwardsSection() {
+function Awards() {
   return (
     <div className="container mt-5">
       <div className="row">
@@ -48,4 +48,4 @@ function AwardsSection() {
   );
 }
 
-export default AwardsSection;
+export default Awards;

@@ -9,8 +9,8 @@ function Navbar() {
       <div class="container p-2">
         <a class="navbar-brand" href="#">
           <img
-            src=""
-            style={{ width: "25%" }}
+            src="./media/logo-ours.PNG"
+            style={{ width: "15%" }}
             alt="Logo"
           />
         </a>
