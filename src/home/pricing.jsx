@@ -1,8 +1,8 @@
 import React from 'react';
 
 function Pricing() {
-    return (<div className='container'>
-  <div className="row">
+    return (<div className='container p-5 mb-5 '>
+  <div className="row ">
     <div className="col-4">
         <h1 className='fs-4 mb-3' style={{ textAlign: 'left' }}>Unbeatable pricing
 </h1>
@@ -19,7 +19,7 @@ function Pricing() {
 opening</p>
             </div>
 
-            <div className="col p-2 border"><h1 className='mb-3'>&#8377;20</h1><p className="text-muted">Intraday F & O</p></div>
+            <div className="col p-2 border "><h1 className='mb-3'>&#8377;20</h1><p className="text-muted">Intraday F & O</p></div>
         </div>
     </div>
     
