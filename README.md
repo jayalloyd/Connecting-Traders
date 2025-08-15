@@ -54,9 +54,6 @@ npm run dev
 
  Deploy to Vercel/Netlify (frontend) & Render/Heroku (backend)
 
-🙌 Contributing
-Contributions will be welcome once the core frontend is complete! Suggestions, PRs, and feature ideas are appreciated.
-# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
