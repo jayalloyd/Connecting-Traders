@@ -5,7 +5,7 @@ function Education() {
     
 
             <div className="col p-2 ">
-                <img src="./media/education.svg"/>
+                <img src="../media/education.svg"/>
             </div>
             <div className="col p-2 "></div>
        

@@ -22,7 +22,7 @@ function Stats() {
 
             </div>
             <div className="col-6 p-5">
-                <img src="./media/ecosystem.png" style={{ width: "150%" }} />
+                <img src="../media/ecosystem.png" style={{ width: "150%" }} />
                 <div >
                     <a href="">Explore our products &rarr;</a>&nbsp;&nbsp;&nbsp;
                     <a href="">Try kite demo &rarr;</a>
